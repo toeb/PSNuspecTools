@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id></id>
+    <title></title>
+    <version></version>
+    <authors></authors>
+    <owners></owners>
+    <summary></summary>
+    <description></description>
+    <projectUrl></projectUrl>
+    <tags></tags>
+    <licenseUrl></licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl></iconUrl>
+  </metadata>
+</package>
